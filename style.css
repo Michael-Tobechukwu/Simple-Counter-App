@@ -1,0 +1,59 @@
+body {
+  background-color: rgb(117, 68, 4);
+  text-align: center;
+}
+#container {
+  border: 5px solid white;
+  border-radius: 8%;
+  width: 500px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: rgb(10, 73, 67);
+}
+#number {
+  margin: 50px 145px 10px;
+  font-size: 30px;
+  border: 2px solid;
+  width: 205px;
+  background-color: white;
+}
+.buttons {
+  width: 300px;
+  margin: 20px 100px 10px;
+}
+#plus {
+  margin: 15px 5px;
+  font-size: 30px;
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+  border-radius: 3rem;
+  border: none;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+#minus {
+  margin: 15px 5px;
+  font-size: 31px;
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+  border-radius: 3rem;
+  border: none;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+#reset {
+  margin: 15px 5px;
+  font-size: 20px;
+  cursor: pointer;
+  height: 50px;
+  width: 100px;
+  border-radius: 3rem;
+  border: none;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
